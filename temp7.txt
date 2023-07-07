@@ -1,0 +1,4 @@
+190003	rourkela	bhubaneswar	3	1500
+190003	rourkela	bhubaneswar	2	1000
+190004	bhubaneswar	sambalpur	2	1000
+190001	bhubaneswar	sambalpur	3	1500

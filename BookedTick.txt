@@ -1,0 +1,243 @@
+
+
+
+		PNR Number is : 99344
+		Passenger Details
+
+		Name : Ankit Singh
+		Email Id : chau443
+		Age : 18
+		Gender : Male
+		Address : lko
+		Phone Number : 99344
+		       Airline:	  Departure:		 Arrival:	    Price:
+               <3>.SpiceJet632    14:20(Kolkata)      17:05(Chennai)      Rs 6000
+
+		PNR Number is : 943
+		Passenger Details
+
+		Name : Arsh Singh
+		Email Id : arsh32
+		Age : 24
+		Gender : Male
+		Address : punjab
+		Phone Number : 943
+		       Airline:	  Departure:		 Arrival:	    Price:
+               <3>.SpiceJet632    14:20(Kolkata)      17:05(Chennai)      Rs 6000
+
+		PNR Number is : 9929332
+		Passenger Details
+
+		Name : Ankit singh
+		Email Id : cha43
+		Age : 23
+		Gender : Male
+		Address : Lko
+		Phone Number : 9929332
+		       Airline:	  Departure:		 Arrival:	    Price:
+     SpiceJet32     14:00(Delhi)        15:05(Chennai)      Rs 6000
+
+		PNR Number is : 99293
+		Passenger Details
+
+		Name : Ankit singh
+		Email Id : hdo4
+		Age : 23
+		Gender : Male
+		Address : lko
+		Phone Number : 99293
+	   	       Airline:	  Departure:		 Arrival:	    Price:
+     Jet Lite4      19:00(Kolkata)      21:05(Chennai)      Rs 7000
+
+		PNR Number is : 4
+		Passenger Details
+
+		Name : ankit sing
+		Email Id : 43dd
+		Age : 23
+		Gender : Male
+		Address : lko
+		Phone Number : 4
+ 		       Airline:	  Departure:		 Arrival:	    Price:
+     JetSpeed42     20:00(Delhi)        22:05(Chennai)      Rs 7500
+
+		PNR Number is : 2343
+		Passenger Details
+
+		Name : Ankit singh
+		Email Id : cha4
+		Age : 74
+		Gender : Male
+		Address : lko
+		Phone Number : 2343
+      	       Airline:	  Departure:		 Arrival:	    Price:
+     JetSpeed       19:00(Mumbai)       21:05(Bangalore)    Rs 7500
+
+		PNR Number is : 93243
+		Passenger Details
+
+		Name : Priyam Rai
+		Email Id : chauhankit322
+		Age : 16
+		Gender : Male
+		Address : Lko
+		Phone Number : 93243
+      Airline:	  Departure:		 Arrival:	    Price:
+     SpiceJet32     14:00(Kolkata)      15:05(Chennai)      Rs 6000
+
+		PNR Number is : 9932984
+		Passenger Details
+
+		Name : Ankit singh
+		Email Id : cha43
+		Age : 223
+		Gender : Male
+		Address : lko
+		Phone Number : 9932984
+      Airline:	  Departure:		 Arrival:	    Price:
+     SpiceJet632    14:20(Kolkata)      17:05(Chennai)      Rs 6000
+
+		PNR Number is : 993244
+		Passenger Details
+
+		Name : Mit sing
+		Email Id : jd3
+		Age : 23
+		Gender : male
+		Address : ffds
+		Phone Number : 993244
+      Airline:	  Departure:	 Arrival:	    Price:
+     AirIndia43     08:40(Kolkata)      11:05(Chennai)      Rs 8500
+
+
+		PNR Number is : 99133
+		Passenger Details
+
+		Name : Khushi Sukla
+		Email Id : chauhankit2563
+		Age : 22
+		Gender : Male
+		Address : LKO
+		Phone Number : 99133
+      	Airline:	  Departure:	   Arrival:	       Price:
+     JetSpeed42     20:00(Delhi)        22:05(Bangalore)    Rs 7500
+
+		PNR Number is : 3843
+		Passenger Details
+
+		Name : Roshni Singh
+		Email Id : roshni32
+		Age : 19
+		Gender : Female
+		Address : LKO
+		Phone Number : 3843
+      	Airline:	  Departure:	    Arrival:		 Price:
+     SpiceJet32     14:00(Mumbai)       15:05(Chennai)      Rs 6000
+
+		PNR Number is : 884343
+		Passenger Details
+
+		Name : deeksha Singh
+		Email Id : deisle3
+		Age : 20
+		Gender : Femai
+		Address : Knp
+		Phone Number : 884343
+      		Airline:	  Departure:	    Arrival:		 Price:
+	     JetSpeed       19:00(Kolkata)      21:05(Chennai)      Rs 7500
+
+		PNR Number is : 2199311
+		Passenger Details
+
+		Name : Ankit Singh
+		Email Id : ankit32
+		Age : 23
+		Gender : Male
+		Address : LKO
+		Phone Number : 99311
+      		Airline:	  Departure:	    Arrival:		 Price:
+	     JetSpeed42      20:00(Chennai)     22:05(Bangalore)    Rs 7500
+
+		PNR Number is : 21883
+		Passenger Details
+
+		Name : Riya Singh
+		Email Id : riye2
+		Age : 20
+		Gender : Female
+		Address : LKO
+		Phone Number : 883
+      		Airline:	  Departure:	    Arrival:		 Price:
+	     JetSpeed42      20:00(Chennai)     22:05(Bangalore)    Rs 7500
+
+		PNR Number is : 214344
+		Passenger Details
+
+		Name : n e
+		Email Id : e
+		Age : 32
+		Gender : 34
+		Address : fnf
+		Phone Number : 4344
+      		Airline:	  Departure:	    Arrival:		 Price:
+	     Indigo325      19:00(Delhi)        21:05(Chennai)      Rs 6500
+
+		PNR Number is : 21993
+		Passenger Details
+
+		Name : j r
+		Email Id : ee3
+		Age : 45
+		Gender : male
+		Address : kfjf
+		Phone Number : 993
+      		Airline:	  Departure:	    Arrival:		 Price:
+	     Indigo325      19:00(Delhi)        21:05(Chennai)      Rs 6500
+
+		PNR Number is : 2143344
+		Passenger Details
+
+		Name : i r
+		Email Id : fe4
+		Age : 34
+		Gender : m
+		Address : lklf
+		Phone Number : 43344
+      		Airline:	  Departure:	    Arrival:		 Price:
+	     SpiceJet32     14:00(Delhi)        15:05(Bangalore)    Rs 6000
+
+		PNR Number is : 2199344
+		Passenger Details
+
+		Name : jff jg
+		Email Id : h54
+		Age : 44
+		Gender : m
+		Address : lko
+		Phone Number : 99344
+      		Airline:	  Departure:	    Arrival:		 Price:
+	     SpiceJet32     14:00(Delhi)        15:05(Bangalore)    Rs 6000
+
+		PNR Number is : 219876543210
+		Passenger Details
+
+		Name : Arsh Dhaliwal
+		Email Id : arsh
+		Age : 18
+		Gender : male
+		Address : Jagraon
+		Phone Number : 9876543210
+      		Airline:	  Departure:	    Arrival:		 Price:
+	     JetSpeed       19:00(Mumbai)       21:05(Delhi)        Rs 7500
+
+		PNR Number is : 219876543210
+		Passenger Details
+
+		Name : anish jangra
+		Email Id : arsh
+		Age : 19
+		Gender : male
+		Address : Haryana
+		Phone Number : 9876543210
+      		Airline:	  Departure:	    Arrival:		 Price:
+	     SpiceJet32     14:00(Delhi)        15:05(Kolkata)      Rs 6000

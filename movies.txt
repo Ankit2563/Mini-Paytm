@@ -1,0 +1,7 @@
+Choice No.    Movie Name                              Price
+1.            Black Panthar:Wakanda Forever           300
+2.            Phone Bhoot                             170
+3.            Mili                                    150
+4.            Enola Holmes 2                          280
+5.            Lyle Lyle Crocodile                     190
+6.            Ram Setu                                190

@@ -1,0 +1,24 @@
+Moive : Ram Setu                      
+Name : Arsh
+Phone number : 9876543210
+Seat number : 8D
+Number of Seats : 2
+Amount paid : 380
+----------------------------------
+
+Moive : Mili                          
+Name : Arsh
+Phone number : 9876543210
+Seat number : 5G
+Number of Seats : 1
+Amount paid : 150
+----------------------------------
+
+Moive : Black Panthar:Wakanda Forever 
+Name : anish
+Phone number : 9876543210
+Seat number : 1A
+Number of Seats : 1
+Amount paid : 300
+----------------------------------
+

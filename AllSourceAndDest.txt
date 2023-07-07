@@ -1,0 +1,103 @@
+ Airlines:        Departure:         Arrival:          Price:
+Indigo32       08:40(Mumbai)       11:05(Delhi)        Rs 8000
+SpiceJet632    14:00(Mumbai)       17:05(Delhi)        Rs 6000
+Jet Speed      19:00(Mumbai)       21:05(Delhi)        Rs 7000
+AirIndia43     08:40(Mumbai)       11:05(Delhi)        Rs 8500
+SpiceJet32     14:00(Mumbai)       15:05(Delhi)        Rs 6000
+JetSpeed       19:00(Mumbai)       21:05(Delhi)        Rs 7500
+Indigo32       09:40(Mumbai)       11:05(Kolkata)      Rs 5000
+SpiceJet632    14:00(Mumbai)       16:05(Kolkata)      Rs 6000
+Jet Speed      19:00(Mumbai)       21:05(Kolkata)      Rs 4500
+SpiceJet62     14:00(Mumbai)       17:05(Chennai)      Rs 6000
+Jet Speed42    19:00(Mumbai)       21:05(Chennai)      Rs 7000
+AirIndia43     08:40(Mumbai)       11:05(Chennai)      Rs 8500
+SpiceJet32     14:00(Mumbai)       15:05(Chennai)      Rs 6000
+JetSpeed42     19:00(Mumbai)       21:05(Chennai)      Rs 7500
+SpiceJet532    14:00(Mumbai)       17:05(Bangalore)    Rs 6000
+Indigo32       08:40(Mumbai)       11:05(Bangalore)    Rs 8000
+Jet Speed      19:00(Mumbai)       21:05(Bangalore)    Rs 7000
+JetSpeed       19:00(Mumbai)       21:05(Bangalore)    Rs 7500
+SpiceJet32     14:00(Mumbai)       15:05(Bangalore)    Rs 6000
+AirIndia43     08:40(Mumbai)       11:05(Bangalore)    Rs 8500
+SpiceJet62     14:00(Delhi)        17:05(Kolkata)      Rs 6000
+Jet Speed42    19:00(Delhi)        21:05(Kolkata)      Rs 7000
+AirIndia43     08:40(Delhi)        11:05(Kolkata)      Rs 8500
+SpiceJet32     14:00(Delhi)        15:05(Kolkata)      Rs 6000
+JetSpeed42     19:00(Delhi)        21:05(Kolkata)      Rs 7600
+SpiceJet62     14:00(Delhi)        17:05(Bangalore)    Rs 6000
+Jet Speed41    19:00(Delhi)        21:05(Bangalore)    Rs 7000
+Jet Speed      19:00(Delhi)        21:05(Bangalore)    Rs 7000
+JetSpeed42     20:00(Delhi)        22:05(Bangalore)    Rs 7500
+SpiceJet32     14:00(Delhi)        15:05(Bangalore)    Rs 6000
+AirIndia43     08:40(Delhi)        11:05(Bangalore)    Rs 8000
+Jet Speed41    19:00(Delhi)        21:05(Chennai)      Rs 7500
+Indigo325      19:00(Delhi)        21:05(Chennai)      Rs 6500
+JetSpeed42     20:00(Delhi)        22:05(Chennai)      Rs 7500
+SpiceJet32     14:00(Delhi)        15:05(Chennai)      Rs 6000
+AirIndia43     08:40(Delhi)        11:05(Chennai)      Rs 8500
+Indigo322      07:40(Kolkata)      9:05(Chennai)       Rs 8000 
+Jet Lite4      19:00(Kolkata)      21:05(Chennai)      Rs 7000
+SpiceJet632    14:20(Kolkata)      17:05(Chennai)      Rs 6000
+AirIndia43     08:40(Kolkata)      11:05(Chennai)      Rs 8500
+SpiceJet32     14:00(Kolkata)      15:05(Chennai)      Rs 6000
+JetSpeed       19:00(Kolkata)      21:05(Chennai)      Rs 7500
+AllianceAir     08:40(Kolkata)      11:05(Bangalore)   Rs 8500
+Go Air432       14:00(Kolkata)      15:05(Bangalore)   Rs 6000
+AirAsia62       14:00(Chennai)     17:05(Bangalore)    Rs 6000
+SpiceJet41      19:00(Chennai)     21:05(Bangalore)    Rs 7000
+Jet Speed       19:00(Chennai)     21:05(Bangalore)    Rs 7000
+JetSpeed42      20:00(Chennai)     22:05(Bangalore)    Rs 7500
+SpiceJet32      14:00(Chennai)     15:05(Bangalore)    Rs 6000
+AirIndia43      08:40(Chennai)     11:05(Bangalore)    Rs 8500
+SpiceJet632     14:00(Chennai)     17:05(Bangalore)    Rs 6000
+Jet Speed       19:00(Chennai)     21:05(Bangalore)    Rs 7000
+AirIndia43      08:40(Chennai)     11:05(Bangalore)    Rs 8500
+SpiceJet32     14:00(Chennai)      15:05(Bangalore)    Rs 6000
+JetSpeed       19:00(Chennai)      21:05(Bangalore)    Rs 7400
+Jet Speed       19:00(Delhi)       21:05(Mumbai)       Rs 7000
+JetSpeed42      20:00(Delhi)       22:05(Mumbai)       Rs 7500
+SpiceJet32      14:00(Delhi)       15:05(Mumbai)       Rs 6000
+AirIndia43      08:40(Delhi)       11:05(Mumbai)       Rs 8500
+SpiceJet632     14:00(Delhi)       17:05(Mumbai)       Rs 6000
+Jet Speed       19:00(Delhi)       21:05(Mumbai)       Rs 7000
+AirIndia43      08:40(Delhi)       11:05(Mumbai)       Rs 8500
+SpiceJet32      14:00(Delhi)       15:05(Mumbai)       Rs 6000
+JetSpeed        19:00(Delhi)       21:05(Mumbai)       Rs 7400
+Jet Speed       19:00(Kolkata)     21:05(Mumbai)       Rs 7000
+AirIndia43      08:40(Kolkata)     11:05(Mumbai)       Rs 8500
+SpiceJet32      14:00(Kolkata)     15:05(Mumbai)       Rs 6000
+JetSpeed        19:00(Kolkata)     21:05(Mumbai)       Rs 7400
+Indigo32        09:40(Kolkata)     11:05(Delhi)        Rs 5000
+SpiceJet632     14:00(Kolkata)     16:05(Delhi)        Rs 6000
+Jet Speed       19:00(Kolkata)     21:05(Delhi)        Rs 4500
+SpiceJet32      14:00(Chennai)     15:05(Mumbai)       Rs 6000
+JetSpeed        19:00(Chennai)     21:05(Mumbai)       Rs 7500
+Go Air432       14:00(Chennai)     15:05(Mumbai)       Rs 6000
+AllianceAir     08:40(Chennai)     11:05(Mumbai)       Rs 8500
+JetSpeed42      20:00(Chennai)     22:05(Delhi)        Rs 7500
+SpiceJet32      14:00(Chennai)     15:05(Delhi)        Rs 6000
+AirIndia43      08:40(Chennai)     11:05(Delhi)        Rs 8500
+SpiceJet632     14:00(Chennai)     17:05(Delhi)        Rs 6000
+Jet Speed       19:00(Chennai)     21:05(Delhi)        Rs 7000
+AirIndia43     08:40(Chennai)      11:05(Kolkata)      Rs 8500
+SpiceJet32     14:00(Chennai)      15:05(Kolkata)      Rs 6000
+SpiceJet632    14:00(Bangalore)    17:05(Delhi)        Rs 6000
+Jet Speed      19:00(Bangalore)    21:05(Delhi)        Rs 7000
+Indigo32       08:40(Bangalore)    11:05(Delhi)        Rs 8000
+AirIndia43     08:40(Bangalore)    11:05(Delhi)        Rs 8500
+SpiceJet32     14:00(Bangalore)    15:05(Delhi)        Rs 6000
+JetSpeed       19:00(Bangalore)    21:05(Delhi)        Rs 7500
+Indigo32       09:40(Bangalore)    11:05(Mumbai)       Rs 5000
+SpiceJet632    14:00(Bangalore)    16:05(Mumbai)       Rs 6000
+Jet Speed      19:00(Bangalore)    21:05(Mumbai)       Rs 4500
+SpiceJet62     14:00(Bangalore)    17:05(Chennai)      Rs 6000
+Jet Speed42    19:00(Bangalore)    21:05(Chennai)      Rs 7000
+AirIndia43     08:40(Bangalore)    11:05(Chennai)      Rs 8500
+SpiceJet32     14:00(Bangalore)    15:05(Chennai)      Rs 6000
+JetSpeed42     19:00(Bangalore)    21:05(Chennai)      Rs 7500
+SpiceJet532    14:00(Bangalore)    17:05(Kolkata)      Rs 6000
+Indigo32       08:40(Bangalore)    11:05(Kolkata)      Rs 8000
+Jet Speed      19:00(Bangalore)    21:05(Kolkata)      Rs 7000
+JetSpeed       19:00(Bangalore)    21:05(Kolkata)      Rs 7500
+SpiceJet32     14:00(Bangalore)    15:05(Kolkata)      Rs 6000
+AirIndia43     08:40(Bangalore)    11:05(Kolkata)      Rs 8500

@@ -1,0 +1,53 @@
+239 Rs  | Calls : Unlimited | Data : 1.5GB/day | SMS : 100/day | Validity : 28 days  | Free Hellotunes
+299 Rs  | Calls : Unlimited | Data : 2.0GB/day | SMS : 100/day | Validity : 28 days  | Free Hellotunes
+666 Rs  | Calls : Unlimited | Data : 1.5GB/day | SMS : 100/day | Validity : 84 days  | Netflix : 3 Months
+699 Rs  | Calls : Unlimited | Data : 3.0GB/day | SMS : 100/day | Validity : 56 days  | Amazon Prime : 56 days
+2999 Rs | Calls : Unlimited | Data : 2.0GB/day | SMS : 100/day | Validity : 365 days | Disney+ Hotstar : 1 Year
+249 Rs  | D2H | One Month
+699 Rs  | D2H | Three Month | Save 48 Rs
+2699 Rs | D2H |  One Year   | Save 289 Rs
+330 Rs  | Airtel Digital TV | One Month
+949 Rs  | Airtel Digital TV | Three Month | Save 41 Rs
+3649 Rs | Airtel Digital TV | One Year    | Save 311 Rs
+299 Rs  | Dish TV | One Month
+849 Rs  | Dish TV | Three Month | Save 48 Rs
+3299 Rs | Dish TV |   One Year  | Save 289 Rs
+289 Rs  | Tata Play | One Month
+809 Rs  | Tata Play | Three Month | Save 58 Rs
+3099 Rs | Tata Play |  One Year   | Save 369 Rs
+Consumer Id : 21103026 | Punjab State Power (PSPCL)
+Name : Arsh Dhaliwal
+Bill Id : PSPCL00458
+Exp. Date(Cash) : Nov 14, 2022 | Exp. Date(Online) : Nov 12, 2022
+Price/Unit : 5.5 Rs | Total Units Consumed : 2000
+Total Amount : {11000}
+Consumer Id : 21103015 | Dakshin Haryana Bijli (DHBVN)
+Name : Anish Kumar
+Bill Id : DHBVN00889
+Exp. Date(Cash) : Nov 25, 2022 | Exp. Date(Online) : Nov 23, 2022
+Price/Unit : 6.5 | Total Units Consumed : 2200
+Total Amount : {14300}
+Consumer Id : 21103018 | Uttar Pradesh Power (UPPCL)
+Name : Ankit Singh Chauhan
+Bill Id : UPPCL00699
+Exp. Date(Cash) : Nov 18, 2022 | Exp. Date(Online) : Nov 16, 2022
+Price/Unit : 4.5 | Total Units Consumed : 1800
+Total Amount : {8100}
+Consumer Id : 21103026 | Punjab Municipal Corp (PMC)
+Name : Arsh Dhaliwal
+Bill Id : PMC0069945
+Exp. Date(Cash) : Nov 18, 2022 | Exp. Date(Online) : Nov 16, 2022
+Price/kLt : 16 | Total Water Consumed : 18 kLt
+Total Amount : {288}
+Consumer Id : 21103015 | Haryana PHED - Water
+Name : Anish Kumar
+Bill Id : HPHEDW00699
+Exp. Date(Cash) : Nov 18, 2022 | Exp. Date(Online) : Nov 16, 2022
+Price/kLt : 20 | Total Water Consumed : 20 kLt
+Total Amount : {400}
+Consumer Id : 21103018 | Uttar Pradesh Municipal Corp (UPMC)
+Name : Ankit Singh Chauhan
+Bill Id : UPMC0069549
+Exp. Date(Cash) : Nov 18, 2022 | Exp. Date(Online) : Nov 16, 2022
+Price/kLt : 13 | Total Water Consumed : 25kLt
+Total Amount : {325}

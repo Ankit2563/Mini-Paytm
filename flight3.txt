@@ -1,0 +1,2 @@
+	Airline:	  Departure:	    Arrival:		 Price:
+     SpiceJet32     14:00(Delhi)        15:05(Kolkata)      Rs 6000
